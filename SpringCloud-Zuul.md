@@ -1,1 +1,43 @@
 
+![1](https://user-images.githubusercontent.com/45532977/53016473-c3100080-3473-11e9-9217-2850bdd93e91.PNG)
+![2](https://user-images.githubusercontent.com/45532977/53016475-c3a89700-3473-11e9-8895-ead92b3c42db.PNG)
+![3](https://user-images.githubusercontent.com/45532977/53016476-c4412d80-3473-11e9-9689-82c41fb724a6.PNG)
+![4](https://user-images.githubusercontent.com/45532977/53016478-c4d9c400-3473-11e9-9f73-81393139c157.PNG)
+![5](https://user-images.githubusercontent.com/45532977/53016480-c5725a80-3473-11e9-9642-c5d7f0f90dd9.PNG)
+![6](https://user-images.githubusercontent.com/45532977/53016481-c60af100-3473-11e9-817e-374f76f8f444.PNG)
+![7](https://user-images.githubusercontent.com/45532977/53016482-c60af100-3473-11e9-9baa-ef54b4de6bd0.PNG)
+![8](https://user-images.githubusercontent.com/45532977/53016484-c6a38780-3473-11e9-8d96-0e833357c943.PNG)
+![9](https://user-images.githubusercontent.com/45532977/53016485-c6a38780-3473-11e9-8569-0168dec50099.PNG)
+![10](https://user-images.githubusercontent.com/45532977/53016487-c73c1e00-3473-11e9-9a32-23b0220879cc.PNG)
+![11](https://user-images.githubusercontent.com/45532977/53016488-c7d4b480-3473-11e9-8e08-11bccb312b6e.PNG)
+![12](https://user-images.githubusercontent.com/45532977/53016490-c7d4b480-3473-11e9-9816-c9539b0ea5c8.PNG)
+![13](https://user-images.githubusercontent.com/45532977/53016491-c86d4b00-3473-11e9-84ac-2f91e21e8ae8.PNG)
+![14](https://user-images.githubusercontent.com/45532977/53016493-c99e7800-3473-11e9-835b-3622c9e77b0a.PNG)
+![15](https://user-images.githubusercontent.com/45532977/53016495-cacfa500-3473-11e9-8e7a-1f7f10c2dd85.PNG)
+![16](https://user-images.githubusercontent.com/45532977/53016496-cacfa500-3473-11e9-8755-f55c5f42b01b.PNG)
+![17](https://user-images.githubusercontent.com/45532977/53016498-cb683b80-3473-11e9-95a9-7640c80a4939.PNG)
+![18](https://user-images.githubusercontent.com/45532977/53016499-cb683b80-3473-11e9-8468-d7cefc6e8817.PNG)
+![19](https://user-images.githubusercontent.com/45532977/53016500-cc00d200-3473-11e9-8a08-c64d5125ad54.PNG)
+![20](https://user-images.githubusercontent.com/45532977/53016502-cc00d200-3473-11e9-90c1-57ff5f908610.PNG)
+![21](https://user-images.githubusercontent.com/45532977/53016504-cc996880-3473-11e9-8a96-9fa1d2768ed4.PNG)
+![22](https://user-images.githubusercontent.com/45532977/53016506-cc996880-3473-11e9-8b75-c9cab027daee.PNG)
+![23](https://user-images.githubusercontent.com/45532977/53016508-cd31ff00-3473-11e9-9fbf-fbdd3fcdd994.PNG)
+![24](https://user-images.githubusercontent.com/45532977/53016510-cdca9580-3473-11e9-99bc-58375baf72dc.PNG)
+![25](https://user-images.githubusercontent.com/45532977/53016511-cdca9580-3473-11e9-92db-f78ddcfca68c.PNG)
+![27](https://user-images.githubusercontent.com/45532977/53016513-ce632c00-3473-11e9-93df-673506161289.PNG)
+![28](https://user-images.githubusercontent.com/45532977/53016515-cefbc280-3473-11e9-888e-e8dd2174c3c4.PNG)
+![29](https://user-images.githubusercontent.com/45532977/53016516-cefbc280-3473-11e9-931c-b1889e22c178.PNG)
+![30](https://user-images.githubusercontent.com/45532977/53016518-cf945900-3473-11e9-9e5c-f3dc720b7f36.PNG)
+![31](https://user-images.githubusercontent.com/45532977/53016519-cf945900-3473-11e9-92a9-8eece8a3566b.PNG)
+![32](https://user-images.githubusercontent.com/45532977/53016520-d02cef80-3473-11e9-9c02-b8566964575e.PNG)
+![33](https://user-images.githubusercontent.com/45532977/53016522-d02cef80-3473-11e9-8421-a9b68419d812.PNG)
+![34](https://user-images.githubusercontent.com/45532977/53016523-d0c58600-3473-11e9-84b7-a89b90e9bf9a.PNG)
+![35](https://user-images.githubusercontent.com/45532977/53016527-d0c58600-3473-11e9-9cb8-a80b1922bc2b.PNG)
+![36](https://user-images.githubusercontent.com/45532977/53016529-d15e1c80-3473-11e9-8213-149934835e7f.PNG)
+![37](https://user-images.githubusercontent.com/45532977/53016530-d15e1c80-3473-11e9-9ac3-0b29911860ff.PNG)
+
+
+https://www.youtube.com/watch?v=dZ8Z5DpcdrM
+
+https://www.baeldung.com/spring-cloud-netflix-eureka  Introduction to Spring Cloud Netflix – Eureka
+https://howtodoinjava.com/spring-cloud/spring-cloud-api-gateway-zuul/  Netflix zuul example – zuul api gateway pattern – spring cloud tutorial
