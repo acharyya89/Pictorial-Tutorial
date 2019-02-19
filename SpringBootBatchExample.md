@@ -15,3 +15,5 @@
 ![14](https://user-images.githubusercontent.com/45532977/53015603-73303a00-3471-11e9-99bd-e89ea32ae577.PNG)
 ![15](https://user-images.githubusercontent.com/45532977/53015604-73c8d080-3471-11e9-8127-940eab4316c3.PNG)
 ![16](https://user-images.githubusercontent.com/45532977/53015605-73c8d080-3471-11e9-8832-2e1c770613e7.PNG)
+
+https://www.youtube.com/watch?v=WpQajiHhYzs  Spring Batch Example in Spring boot - CSV File to MySql Database
