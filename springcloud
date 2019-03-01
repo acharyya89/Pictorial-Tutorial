@@ -1,1 +1,16 @@
 
+https://www.youtube.com/watch?v=mr_2-AWYCoc  Spring Web Services (SOAP) in Spring Boot App with example
+https://www.youtube.com/watch?v=rPMt8GhZkA0 Building REST Based Web Service with Spring Boot
+https://www.youtube.com/watch?v=TvGLm7BijJY  REST Vs SOAP - What is the difference?
+https://www.youtube.com/watch?v=OiXqqBPrQjw  spring boot | Jackson - Wrapping json object
+https://www.youtube.com/watch?v=6yF0GpjAhwk  Support both XML and JSON in a Spring API
+https://www.logicbig.com/tutorials/misc/jackson/json-value.html  Jackson JSON - Using @JsonValue
+https://www.baeldung.com/jackson-object-mapper-tutorial  Intro to the Jackson 
+https://www.baeldung.com/spring-httpmessageconverter-rest  Http Message Converters 
+https://www.baeldung.com/spring-boot-soap-web-service  Creating a SOAP Web Service with Spring
+https://www.youtube.com/watch?v=vzSuYab2q5M&list=PLTyWtrsGknYe3E6h2gKBRy-wk0MrQjPPz&index=1   Cloud Foundry - Quick Introduction
+https://www.youtube.com/watch?v=BAd7by1a7DE&list=PLO0KWyajXMh7Fis7s4rC3gC_W0aCPxvQK  Pivotal Cloud Foundry 
+https://www.youtube.com/watch?v=ueyVjOnDHYQ  Client side Load Balancer using Spring Cloud Ribbon | Spring Boot
+https://www.youtube.com/watch?v=Najgh-3hcng  What is Apache Kafka? | Tech Primers
+https://www.youtube.com/watch?v=NjHYWEV_E_o  Spring Boot with Spring Kafka Producer Example | Tech Primers
+https://www.youtube.com/watch?v=IncG0_XSSBg  Spring Boot with Spring Kafka Consumer Example | Tech Primers
