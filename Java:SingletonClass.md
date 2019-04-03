@@ -12,5 +12,7 @@
 ![11](https://user-images.githubusercontent.com/45532977/53388147-1a502c80-39b0-11e9-9e8e-85850b390fee.PNG)
 ![12](https://user-images.githubusercontent.com/45532977/53388148-1ae8c300-39b0-11e9-8cf6-737a5e318d0e.PNG)
 ![13](https://user-images.githubusercontent.com/45532977/53388149-1ae8c300-39b0-11e9-9c2c-bf0af6911dee.PNG)
+![image](https://user-images.githubusercontent.com/45532977/55485702-96413280-5648-11e9-9305-863358d3cdd2.png)
+
 
 https://www.youtube.com/watch?v=zUYLY8kYavs  Thread-safe singleton implementation in Java
